@@ -3,3 +3,4 @@ new version
 NEW VERSION
 new
 master test
+hot fix test
