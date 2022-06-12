@@ -4,3 +4,4 @@ NEW VERSION
 new
 master test
 hot fix test
+remote version
